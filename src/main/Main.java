@@ -10,8 +10,12 @@ package main;
  * @author k_zeb
  */
 public class Main {
-    public static void main(String[] args){
-        
+    public static void main(String[] args){ 
+     System.out.println("Computer: what is your name");
+     System.out.println("User: Clinton ");
+     System.out.println("Computer: How old are your");
+     System.out.println("User: 17 years old");
+
     }
     
 }
